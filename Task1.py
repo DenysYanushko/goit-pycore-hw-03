@@ -11,4 +11,4 @@ def get_days_from_today(date):
     delta = today - date_object.date()
     return delta.days
 
-print(get_days_from_today("2026-10-01"))
+print(get_days_from_today("2026-06-07"))
